@@ -76,4 +76,5 @@ The dashboard includes:
 ---
 
 ## Dashboard Preview
-<img width="1283" height="712" alt="image" src="https://github.com/user-attachments/assets/df58a58a-aaab-4e65-870b-9d19fd34a307" />
+<img width="1283" height="712" alt="Screenshot 2026-04-08 133521" src="https://github.com/user-attachments/assets/50b5733d-b231-4ef4-a2d6-b088c5b8e58f" />
+
